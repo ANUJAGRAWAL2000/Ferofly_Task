@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ferofly_task</string>
+    <string name="Order_Details">Order Details</string>
+    <string name="Items">2 Items Packed</string>
+    <string name="Details"><![CDATA[See details >]]></string>
+    <string name="OrderID">Order ID</string>
+    <string name="ID">ORDERNUMBER4867392208600039</string>
+    <string name="OrderDate">Order Date</string>
+    <string name="Date">Oct 23,2019 9:08 PM</string>
+    <string name="PaymentMode">Payment Mode</string>
+    <string name="PHONEPE">PHONEPE</string>
+    <string name="Address_Type">OFFICE</string>
+    <string name="Address">2nd Floor, Hno 12, Road no 37, Back side of MGS Hospital, West Punjabi Bagh, Punjabi Bagh, Dehli, 110026, India</string>
+    <string name="Instruction">Instruction:</string>
+    <string name="Instruction_Value">Call on arrival, bring cutlery</string>
+    <string name="State">Preparing Dinner.</string>
+    <string name="Expected_Time">Expected arrival Time:</string>
+    <string name="Time">09:51 PM</string>
+    <string name="TrackOrder">Track Order</string>
+    <string name="Report_Issue">Report Issue</string>
+</resources>
