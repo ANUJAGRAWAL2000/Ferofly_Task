@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vinaygopinath:StepView:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448087992d8494272e8616bd0e67a1e7/jetified-StepView-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448087992d8494272e8616bd0e67a1e7/jetified-StepView-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/448087992d8494272e8616bd0e67a1e7/jetified-StepView-2.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
